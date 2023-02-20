@@ -5,3 +5,5 @@ RENCANA KONTEN ALI
 - Belajar PHP
   *di YT Web programming UNPAS
 - Belajar JavaScript
+  *di YT Web programming UNPAS
+ - Belajar Python
